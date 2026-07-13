@@ -6,7 +6,8 @@ authors:
   - "T. Kataoka"
   - "H. Miura"
 date: "2023-01-01T00:00:00Z"
-publication: "J. Clim., in review."
+publication:
+  name: "J. Clim., in review."
 publication_types:
   - "article-journal"
 ---\n
