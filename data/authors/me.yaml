@@ -32,34 +32,34 @@ interests:
   - Atmosphere-Vegetation Biophysical Interactions
 
 education:
-  - degree: PhD Student
+  - area: PhD Student
     institution: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
-    start: 2024-04-01
-    end: ""
-  - degree: Master's Student
+    date_start: 2024-04-01
+    date_end: ""
+  - area: Master's Student
     institution: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
-    start: 2022-04-01
-    end: 2024-03-31
-  - degree: Bachelor's Student
+    date_start: 2022-04-01
+    date_end: 2024-03-31
+  - area: Bachelor's Student
     institution: Department of Earth and Planetary Physics, Faculty of Science, The University of Tokyo
-    start: 2020-04-01
-    end: 2022-03-31
-  - degree: Natural Sciences I
-    institution: College of Arts and Sciences, The University of Tokyo
-    start: 2018-04-01
-    end: 2020-03-31
-  - degree: Science and Mathematics Course
-    institution: Shizuoka Prefectural Iwata Minami High School
-    start: 2015-04-01
-    end: 2018-03-31
-  - degree: Junior High School
-    institution: Hamamatsu Junior High School Attached to the Faculty of Education, Shizuoka University
-    start: 2012-04-01
-    end: 2015-03-31
-  - degree: Elementary School
-    institution: Hamamatsu Elementary School Attached to the Faculty of Education, Shizuoka University
-    start: 2006-04-01
-    end: 2012-03-31
+    date_start: 2020-04-01
+    date_end: 2022-03-31
+  - area: Junior Division Student
+    institution: Natural Sciences I, College of Arts and Sciences, The University of Tokyo
+    date_start: 2018-04-01
+    date_end: 2020-03-31
+  - area: Shizuoka Prefectural Iwata Minami High School
+    institution: Science and Mathematics Course
+    date_start: 2015-04-01
+    date_end: 2018-03-31
+  - area: Hamamatsu Junior High School Attached to the Faculty of Education, Shizuoka University
+    institution: ''
+    date_start: 2012-04-01
+    date_end: 2015-03-31
+  - area: Hamamatsu Elementary School Attached to the Faculty of Education, Shizuoka University
+    institution: ''
+    date_start: 2006-04-01
+    date_end: 2012-03-31
 
 experience:
   - title: Project Student

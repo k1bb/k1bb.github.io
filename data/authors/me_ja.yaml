@@ -32,34 +32,34 @@ interests:
   - 大気-陸上植生物理相互作用
 
 education:
-  - degree: 博士課程
+  - area: 博士課程
     institution: 東京大学大学院理学系研究科地球惑星科学専攻
-    start: 2024-04-01
-    end: ""
-  - degree: 修士課程
+    date_start: 2024-04-01
+    date_end: ""
+  - area: 修士課程
     institution: 東京大学大学院理学系研究科地球惑星科学専攻
-    start: 2022-04-01
-    end: 2024-03-31
-  - degree: 地球惑星物理学科
-    institution: 東京大学理学部
-    start: 2020-04-01
-    end: 2022-03-31
-  - degree: 理科一類
-    institution: 東京大学教養学部
-    start: 2018-04-01
-    end: 2020-03-31
-  - degree: 理数科
-    institution: 静岡県立磐田南高校
-    start: 2015-04-01
-    end: 2018-03-31
-  - degree: 中学校
-    institution: 静岡大学教育学部附属浜松中学校
-    start: 2012-04-01
-    end: 2015-03-31
-  - degree: 小学校
-    institution: 静岡大学教育学部附属浜松小学校
-    start: 2006-04-01
-    end: 2012-03-31
+    date_start: 2022-04-01
+    date_end: 2024-03-31
+  - area: 学士課程
+    institution: 東京大学理学部地球惑星物理学科
+    date_start: 2020-04-01
+    date_end: 2022-03-31
+  - area: 学部前期課程
+    institution: 東京大学教養学部理科一類
+    date_start: 2018-04-01
+    date_end: 2020-03-31
+  - area: 静岡県立磐田南高校
+    institution: 理数科
+    date_start: 2015-04-01
+    date_end: 2018-03-31
+  - area: 静岡大学教育学部附属浜松中学校
+    institution: ''
+    date_start: 2012-04-01
+    date_end: 2015-03-31
+  - area: 静岡大学教育学部附属浜松小学校
+    institution: ''
+    date_start: 2006-04-01
+    date_end: 2012-03-31
 
 experience:
   - title: JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
