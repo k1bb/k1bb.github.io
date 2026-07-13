@@ -93,10 +93,6 @@ work:
     summary: ""
 
 skills:
-  - name: Graphic Design
-    icon: paint-brush
-  - name: Photography
-    icon: camera
   - name: Fortran
     icon: code-bracket
   - name: Python
@@ -105,6 +101,10 @@ skills:
     icon: server-stack
   - name: Image Analysis
     icon: chart-bar
+  - name: Graphic Design
+    icon: paint-brush
+  - name: Photography
+    icon: camera
 languages:
   - name: Japanese
     level: 5
