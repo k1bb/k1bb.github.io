@@ -8,5 +8,7 @@ image:
   preview_only: true
 ---
 
+## Banner
+
 ![磐南同窓会関東支部総会2024](磐南同窓会関東支部総会2024.png)
 <br><br>
