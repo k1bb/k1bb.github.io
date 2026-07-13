@@ -44,6 +44,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: 経歴
       username: me_ja
     design:
       date_format: '2006年1月'
@@ -69,9 +70,19 @@ sections:
     design:
       view: card
 
+  - block: collection
+    id: portfolio
+    content:
+      title: ポートフォリオ (Works)
+      filters:
+        folders:
+          - project
+    design:
+      view: card
+
   - block: resume-skills
     id: hobbies
     content:
-      title: 趣味
+      title: 趣味・特技
       username: me_ja
 ---

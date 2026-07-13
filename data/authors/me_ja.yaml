@@ -90,6 +90,9 @@ work:
     summary: ""
 
 skills:
+  - name: DTP（チラシ・パンフレット制作）
+    icon: object-group
+    icon_pack: fas
   - name: カメラ・写真
     icon: camera
     icon_pack: fas

@@ -70,6 +70,16 @@ sections:
     design:
       view: card
 
+  - block: collection
+    id: portfolio
+    content:
+      title: Portfolio (Works)
+      filters:
+        folders:
+          - project
+    design:
+      view: card
+
   - block: resume-skills
     id: hobbies
     content:
