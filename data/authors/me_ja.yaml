@@ -5,8 +5,8 @@ name:
   display: 橋本 恵一
   given: 恵一
   family: 橋本
-  alternate: 'Keiichi Hashimoto'
-  pronunciation: ''
+  alternate: "Keiichi Hashimoto"
+  pronunciation: ""
   pronouns: he/him
 postnominals: []
 status:
@@ -32,78 +32,62 @@ interests:
   - 大気-陸上植生物理相互作用
 
 education:
-  - area: 東京大学大学院理学系研究科地球惑星科学専攻
-    institution: 博士課程
-    date_start: 2024-04-01
+  - institution: 東京大学大学院 理学系研究科
+    area: 地球惑星科学専攻 博士課程
+    date_start: "2024-04-01"
     date_end: ""
-  - area: 東京大学大学院理学系研究科地球惑星科学専攻
-    institution: 修士課程
-    date_start: 2022-04-01
-    date_end: 2024-03-31
-  - area: 東京大学理学部地球惑星物理学科
-    institution: 学部後期課程
-    date_start: 2020-04-01
-    date_end: 2022-03-31
-  - area: 東京大学教養学部理科一類
-    institution: 学部前期課程
-    date_start: 2018-04-01
-    date_end: 2020-03-31
-  - area: 静岡県立磐田南高校
-    institution: 理数科
-    date_start: 2015-04-01
-    date_end: 2018-03-31
-  - area: 静岡大学教育学部附属浜松中学校
-    institution: ''
-    date_start: 2012-04-01
-    date_end: 2015-03-31
-  - area: 静岡大学教育学部附属浜松小学校
-    institution: ''
-    date_start: 2006-04-01
-    date_end: 2012-03-31
+  - institution: 東京大学大学院 理学系研究科
+    area: 地球惑星科学専攻 修士課程
+    date_start: "2022-04-01"
+    date_end: "2024-03-31"
+  - institution: 東京大学 理学部
+    area: 地球惑星物理学科
+    date_start: "2018-04-01"
+    date_end: "2022-03-31"
 
-experience:
-  - title: JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
-    company: 東京大学
-    company_url: ''
-    location: ''
-    date_start: '2024-04-01'
-    date_end: '2027-03-31'
-    description: ''
-  - title: 技術補佐員
-    company: 東京大学大学院理学系研究科
-    company_url: ''
-    location: ''
-    date_start: '2025-04-01'
-    date_end: '2026-03-31'
-    description: ''
-  - title: 臨時研究補助員
-    company: 海洋研究開発機構
-    company_url: ''
-    location: ''
-    date_start: '2025-08-01'
-    date_end: '2026-03-31'
-    description: ''
-  - title: 研究生
-    company: 海洋研究開発機構
-    company_url: ''
-    location: ''
-    date_start: '2022-01-01'
-    date_end: ''
-    description: ''
-  - title: 理事
-    company: 認定特定非営利活動法人地下からのサイン測ろうかい
-    company_url: ''
-    location: ''
-    date_start: '2019-06-01'
-    date_end: '2025-05-31'
-    description: ''
-  - title: 理事
-    company: 東京大学消費生活協同組合
-    company_url: ''
-    location: ''
-    date_start: '2020-06-01'
-    date_end: '2021-05-31'
-    description: ''
+work:
+  - position: JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
+    company_name: 東京大学
+    company_url: ""
+    location: ""
+    date_start: "2024-04-01"
+    date_end: "2027-03-31"
+    summary: ""
+  - position: 技術補佐員
+    company_name: 東京大学大学院理学系研究科
+    company_url: ""
+    location: ""
+    date_start: "2025-04-01"
+    date_end: "2026-03-31"
+    summary: ""
+  - position: 臨時研究補助員
+    company_name: 海洋研究開発機構
+    company_url: ""
+    location: ""
+    date_start: "2025-08-01"
+    date_end: "2026-03-31"
+    summary: ""
+  - position: 研究生
+    company_name: 海洋研究開発機構
+    company_url: ""
+    location: ""
+    date_start: "2022-01-01"
+    date_end: ""
+    summary: ""
+  - position: 理事
+    company_name: 認定特定非営利活動法人地下からのサイン測ろうかい
+    company_url: ""
+    location: ""
+    date_start: "2019-06-01"
+    date_end: "2025-05-31"
+    summary: ""
+  - position: 理事
+    company_name: 東京大学消費生活協同組合
+    company_url: ""
+    location: ""
+    date_start: "2020-06-01"
+    date_end: "2021-05-31"
+    summary: ""
 
 skills:
   - name: カメラ・写真

@@ -5,8 +5,8 @@ name:
   display: Keiichi Hashimoto
   given: Keiichi
   family: Hashimoto
-  alternate: '橋本 恵一'
-  pronunciation: ''
+  alternate: "橋本 恵一"
+  pronunciation: ""
   pronouns: he/him
 postnominals: []
 status:
@@ -32,78 +32,62 @@ interests:
   - Atmosphere-Vegetation Biophysical Interactions
 
 education:
-  - area: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
-    institution: PhD Student
-    date_start: 2024-04-01
+  - institution: Graduate School of Science, The University of Tokyo
+    area: Ph.D. in Science (Earth and Planetary Science)
+    date_start: "2024-04-01"
     date_end: ""
-  - area: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
-    institution: Master's Student
-    date_start: 2022-04-01
-    date_end: 2024-03-31
-  - area: Department of Earth and Planetary Physics, Faculty of Science, The University of Tokyo
-    institution: Senior Division Student
-    date_start: 2020-04-01
-    date_end: 2022-03-31
-  - area: Natural Sciences I, College of Arts and Sciences, The University of Tokyo
-    institution: Junior Division Student
-    date_start: 2018-04-01
-    date_end: 2020-03-31
-  - area: Shizuoka Prefectural Iwata Minami High School
-    institution: Science and Mathematics Course
-    date_start: 2015-04-01
-    date_end: 2018-03-31
-  - area: Hamamatsu Junior High School Attached to the Faculty of Education, Shizuoka University
-    institution: ''
-    date_start: 2012-04-01
-    date_end: 2015-03-31
-  - area: Hamamatsu Elementary School Attached to the Faculty of Education, Shizuoka University
-    institution: ''
-    date_start: 2006-04-01
-    date_end: 2012-03-31
+  - institution: Graduate School of Science, The University of Tokyo
+    area: M.Sc. in Science (Earth and Planetary Science)
+    date_start: "2022-04-01"
+    date_end: "2024-03-31"
+  - institution: Faculty of Science, The University of Tokyo
+    area: B.Sc. in Science (Earth and Planetary Physics)
+    date_start: "2018-04-01"
+    date_end: "2022-03-31"
 
-experience:
-  - title: Project Student
-    company: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
-    company_url: ''
-    location: ''
-    date_start: '2024-04-01'
-    date_end: '2027-03-31'
-    description: ''
-  - title: Technical Assistant
-    company: Graduate School of Science, The University of Tokyo
-    company_url: ''
-    location: ''
-    date_start: '2025-04-01'
-    date_end: '2026-03-31'
-    description: ''
-  - title: Temporary Research Assistant
-    company: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-    company_url: ''
-    location: ''
-    date_start: '2025-08-01'
-    date_end: '2026-03-31'
-    description: ''
-  - title: Research Student
-    company: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-    company_url: ''
-    location: ''
-    date_start: '2022-01-01'
-    date_end: ''
-    description: ''
-  - title: Board Member
-    company: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
-    company_url: ''
-    location: ''
-    date_start: '2019-06-01'
-    date_end: '2025-05-31'
-    description: ''
-  - title: Board Member
-    company: University of Tokyo Co-op
-    company_url: ''
-    location: ''
-    date_start: '2020-06-01'
-    date_end: '2021-05-31'
-    description: ''
+work:
+  - position: Project Student
+    company_name: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
+    company_url: ""
+    location: ""
+    date_start: "2024-04-01"
+    date_end: "2027-03-31"
+    summary: ""
+  - position: Technical Assistant
+    company_name: Graduate School of Science, The University of Tokyo
+    company_url: ""
+    location: ""
+    date_start: "2025-04-01"
+    date_end: "2026-03-31"
+    summary: ""
+  - position: Temporary Research Assistant
+    company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+    company_url: ""
+    location: ""
+    date_start: "2025-08-01"
+    date_end: "2026-03-31"
+    summary: ""
+  - position: Research Student
+    company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+    company_url: ""
+    location: ""
+    date_start: "2022-01-01"
+    date_end: ""
+    summary: ""
+  - position: Board Member
+    company_name: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
+    company_url: ""
+    location: ""
+    date_start: "2019-06-01"
+    date_end: "2025-05-31"
+    summary: ""
+  - position: Board Member
+    company_name: University of Tokyo Co-op
+    company_url: ""
+    location: ""
+    date_start: "2020-06-01"
+    date_end: "2021-05-31"
+    summary: ""
 
 skills:
   - name: Photography
