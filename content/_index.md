@@ -73,16 +73,10 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: collection
+  - block: markdown
     id: photography
     content:
       title: Photography
-      filters:
-        folders:
-          - project
-        tags:
-          - Photography
-    design:
-      view: article-grid
-      columns: 3
+      text: >
+        Works will be published on external services such as [note.com](https://note.com/). (Coming soon...)
 ---

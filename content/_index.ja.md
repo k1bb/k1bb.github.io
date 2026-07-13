@@ -72,16 +72,10 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: collection
+  - block: markdown
     id: photography
     content:
       title: 写真
-      filters:
-        folders:
-          - project
-        tags:
-          - 写真
-    design:
-      view: article-grid
-      columns: 3
+      text: >
+        [note.com](https://note.com/) など外部サービスで公開する予定です。（Coming soon...）
 ---
