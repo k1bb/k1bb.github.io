@@ -16,7 +16,7 @@ sections:
         text: 履歴書 (CV) ダウンロード
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: '研究概要'
         interests: ''
     design:
       background:
