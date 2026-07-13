@@ -93,15 +93,10 @@ work:
     summary: ""
 
 skills:
-  - name: DTP（チラシ・パンフレット制作）
-    icon: object-group
-    icon_pack: fas
-  - name: カメラ・写真
+  - name: グラフィックデザイン
+    icon: paint-brush
+  - name: 写真
     icon: camera
-    icon_pack: fas
-  - name: 登山・ハイキング
-    icon: mountain
-    icon_pack: fas
 languages:
   - name: 日本語
     level: 5

@@ -93,15 +93,10 @@ work:
     summary: ""
 
 skills:
-  - name: Desktop Publishing
-    icon: object-group
-    icon_pack: fas
+  - name: Graphic Design
+    icon: paint-brush
   - name: Photography
     icon: camera
-    icon_pack: fas
-  - name: Hiking
-    icon: mountain
-    icon_pack: fas
 languages:
   - name: Japanese
     level: 5

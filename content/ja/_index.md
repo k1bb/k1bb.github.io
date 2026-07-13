@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: graphic-design
     content:
-      title: デザイン制作 (Graphic Design)
+      title: グラフィックデザイン
       filters:
         folders:
           - project
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: photography
     content:
-      title: 写真 (Photography)
+      title: 写真
       filters:
         folders:
           - project

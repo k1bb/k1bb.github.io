@@ -539,7 +539,9 @@
             {{ range $skills }}
             <span class="inline-flex items-center gap-2 bg-primary-50 dark:bg-gray-800 text-primary-800 dark:text-primary-200 text-base font-medium px-4 py-2 rounded-full border border-primary-200/50 dark:border-primary-800/50 hover:bg-primary-100 dark:hover:bg-primary-500 dark:hover:text-gray-900 dark:hover:border-primary-500 transition-all duration-200 cursor-default">
               {{ if .icon }}
-                {{ partial "functions/get_icon" (dict "name" .icon "pack" (or .icon_pack "fas") "attributes" "class='w-4 h-4'") }}
+                {{ $iconDict := dict "name" .icon "attributes" "class='w-4 h-4'" }}
+                {{ if .icon_pack }}{{ $iconDict = merge $iconDict (dict "pack" .icon_pack) }}{{ end }}
+                {{ partial "functions/get_icon" $iconDict }}
               {{ end }}
               {{ .name | markdownify | emojify }}
             </span>
