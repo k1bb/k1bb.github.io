@@ -48,43 +48,43 @@ education:
 work:
   - position: Temporary Research Assistant
     company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-    company_url: ""
-    location: ""
+    company_url: "https://www.jamstec.go.jp"
+    location: "Yokohama, Kanagawa, Japan"
     date_start: "2025-08-01"
     date_end: "2026-03-31"
     summary: ""
   - position: Technical Assistant
     company_name: Graduate School of Science, The University of Tokyo
-    company_url: ""
-    location: ""
+    company_url: "https://www.eps.s.u-tokyo.ac.jp/"
+    location: "Hongo, Bunkyo-ku, Tokyo, Japan"
     date_start: "2025-04-01"
     date_end: "2026-03-31"
     summary: ""
-  - position: Project Student
-    company_name: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
-    company_url: ""
+  - position: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)" Project student
+    company_name: The University of Tokyo
+    company_url: "https://www.u-tokyo.ac.jp/ja/students/special-activities/spring_gx.html"
     location: ""
     date_start: "2024-04-01"
     date_end: "2027-03-31"
     summary: ""
   - position: Research Student
     company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-    company_url: ""
-    location: ""
+    company_url: "https://www.jamstec.go.jp"
+    location: "Yokohama, Kanagawa, Japan"
     date_start: "2022-01-01"
     date_end: ""
     summary: ""
-  - position: Board Member
-    company_name: University of Tokyo Co-op
-    company_url: ""
-    location: ""
+  - position: Director
+    company_name: The University of Tokyo CO-OP
+    company_url: "https://www.utcoop.or.jp/"
+    location: "Hongo, Bunkyo-ku, Tokyo, Japan"
     date_start: "2020-06-01"
     date_end: "2021-05-31"
     summary: ""
-  - position: Board Member
-    company_name: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
-    company_url: ""
-    location: ""
+  - position: Director
+    company_name: Collaborator'ｓ Association for Detecting Anomalous Signs from Underground
+    company_url: "https://hkamikubo.wixsite.com/hakaroukai"
+    location: "Hamamatsu, Shizuoka, Japan"
     date_start: "2019-06-01"
     date_end: "2025-05-31"
     summary: ""
