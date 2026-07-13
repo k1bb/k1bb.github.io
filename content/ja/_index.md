@@ -68,7 +68,7 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: citation
 
   - block: collection
     id: portfolio

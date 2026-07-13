@@ -63,12 +63,12 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Presentations
+      title: Recent & Upcoming Talks
       filters:
         folders:
           - events
     design:
-      view: card
+      view: citation
 
   - block: collection
     id: portfolio
