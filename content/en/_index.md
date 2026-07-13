@@ -34,11 +34,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on the physical interactions between the atmosphere and terrestrial vegetation (climate-vegetation interactions) using Earth System Models.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        In particular, I contribute to the development of the Japanese Earth System Model, MIROC-ES2L. My work aims to elucidate how dynamic simulations of Leaf Area Index (LAI) and the introduction of realistic vegetation structures, such as canopy height, impact large-scale climate phenomena like the El Niño-Southern Oscillation (ENSO) and general atmospheric circulation. Furthermore, I am engaged in developing advanced photosynthesis-hydraulics modules based on optimality theory and exploring cloud self-aggregation in radiative-convective equilibrium (RCE) systems across various temporal and spatial scales.
 
-        Please reach out to collaborate 😃
+        Please reach out to collaborate or ask any questions 😃
     design:
       columns: '1'
 
