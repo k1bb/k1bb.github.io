@@ -53,7 +53,8 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Featured Publications
+      count: 50
       filters:
         folders:
           - publications
@@ -64,6 +65,7 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      count: 50
       filters:
         folders:
           - events

@@ -54,6 +54,7 @@ sections:
     id: papers
     content:
       title: 論文
+      count: 50
       filters:
         folders:
           - publications
@@ -64,6 +65,7 @@ sections:
     id: talks
     content:
       title: 学会発表
+      count: 50
       filters:
         folders:
           - events
