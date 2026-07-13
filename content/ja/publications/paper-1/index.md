@@ -1,7 +1,7 @@
 ---
 title: "An ENSO amplitude enhancement by the dynamic simulation of LAI in the Earth System Model MIROC-ES2L"
 authors:
-  - "me_ja"
+  - "me"
   - "T. Hajima"
   - "H. Tatebe"
   - "T. Kataoka"

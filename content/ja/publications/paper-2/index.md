@@ -12,7 +12,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. M. Hannah"
-  - "me_ja"
+  - "me"
   - "P.G. Hill"
   - "G. Leung"
   - "S. Matsugishi"

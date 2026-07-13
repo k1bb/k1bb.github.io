@@ -13,7 +13,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. Hannah"
-  - "me_ja"
+  - "me"
   - "P. Hill"
   - "S. Matsugishi"
   - "S. Ortega"
