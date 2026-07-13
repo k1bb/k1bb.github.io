@@ -32,36 +32,78 @@ interests:
   - Atmosphere-Vegetation Biophysical Interactions
 
 education:
-  - degree: PhD in Earth and Planetary Science
-    institution: Graduate School of Science, The University of Tokyo
+  - degree: PhD Student
+    institution: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
     start: 2024-04-01
     end: ""
-  - degree: MSc in Earth and Planetary Science
-    institution: Graduate School of Science, The University of Tokyo
+  - degree: Master's Student
+    institution: Department of Earth and Planetary Science, Graduate School of Science, The University of Tokyo
     start: 2022-04-01
     end: 2024-03-31
-  - degree: BSc in Earth and Planetary Physics
-    institution: Faculty of Science, The University of Tokyo
-    start: 2018-04-01
+  - degree: Bachelor's Student
+    institution: Department of Earth and Planetary Physics, Faculty of Science, The University of Tokyo
+    start: 2020-04-01
     end: 2022-03-31
+  - degree: Natural Sciences I
+    institution: College of Arts and Sciences, The University of Tokyo
+    start: 2018-04-01
+    end: 2020-03-31
+  - degree: Science and Mathematics Course
+    institution: Shizuoka Prefectural Iwata Minami High School
+    start: 2015-04-01
+    end: 2018-03-31
+  - degree: Junior High School
+    institution: Hamamatsu Junior High School Attached to the Faculty of Education, Shizuoka University
+    start: 2012-04-01
+    end: 2015-03-31
+  - degree: Elementary School
+    institution: Hamamatsu Elementary School Attached to the Faculty of Education, Shizuoka University
+    start: 2006-04-01
+    end: 2012-03-31
 
 experience:
-  - title: PhD Student
-    company: The University of Tokyo
+  - title: Project Student
+    company: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
     company_url: ''
-    location: Tokyo, Japan
+    location: ''
     date_start: '2024-04-01'
-    date_end: ''
-    description: |
-      Researching Earth System Modeling.
-  - title: Master Student
-    company: The University of Tokyo
+    date_end: '2027-03-31'
+    description: ''
+  - title: Technical Assistant
+    company: Graduate School of Science, The University of Tokyo
     company_url: ''
-    location: Tokyo, Japan
-    date_start: '2022-04-01'
-    date_end: '2024-03-31'
-    description: |
-      Conducted research on Atmosphere-Vegetation Biophysical Interactions.
+    location: ''
+    date_start: '2025-04-01'
+    date_end: '2026-03-31'
+    description: ''
+  - title: Temporary Research Assistant
+    company: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+    company_url: ''
+    location: ''
+    date_start: '2025-08-01'
+    date_end: '2026-03-31'
+    description: ''
+  - title: Research Student
+    company: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+    company_url: ''
+    location: ''
+    date_start: '2022-01-01'
+    date_end: ''
+    description: ''
+  - title: Board Member
+    company: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
+    company_url: ''
+    location: ''
+    date_start: '2019-06-01'
+    date_end: '2025-05-31'
+    description: ''
+  - title: Board Member
+    company: University of Tokyo Co-op
+    company_url: ''
+    location: ''
+    date_start: '2020-06-01'
+    date_end: '2021-05-31'
+    description: ''
 
 skills:
   - name: Photography

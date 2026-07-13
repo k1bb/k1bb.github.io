@@ -32,36 +32,78 @@ interests:
   - 大気-陸上植生物理相互作用
 
 education:
-  - degree: 博士課程（地球惑星科学専攻）
-    institution: 東京大学大学院理学系研究科
+  - degree: 博士課程
+    institution: 東京大学大学院理学系研究科地球惑星科学専攻
     start: 2024-04-01
     end: ""
-  - degree: 修士課程（地球惑星科学専攻）
-    institution: 東京大学大学院理学系研究科
+  - degree: 修士課程
+    institution: 東京大学大学院理学系研究科地球惑星科学専攻
     start: 2022-04-01
     end: 2024-03-31
-  - degree: 学士課程（地球惑星物理学科）
-    institution: 東京大学 理学部
-    start: 2018-04-01
+  - degree: 地球惑星物理学科
+    institution: 東京大学理学部
+    start: 2020-04-01
     end: 2022-03-31
+  - degree: 理科一類
+    institution: 東京大学教養学部
+    start: 2018-04-01
+    end: 2020-03-31
+  - degree: 理数科
+    institution: 静岡県立磐田南高校
+    start: 2015-04-01
+    end: 2018-03-31
+  - degree: 中学校
+    institution: 静岡大学教育学部附属浜松中学校
+    start: 2012-04-01
+    end: 2015-03-31
+  - degree: 小学校
+    institution: 静岡大学教育学部附属浜松小学校
+    start: 2006-04-01
+    end: 2012-03-31
 
 experience:
-  - title: 博士課程学生
+  - title: JST次世代研究者挑戦的研究プログラム（SPRING） 東京大学「グリーントランスフォーメーション（ＧＸ）を先導する高度人材育成（SPRING GX）」プロジェクト生
     company: 東京大学
     company_url: ''
-    location: 東京
+    location: ''
     date_start: '2024-04-01'
-    date_end: ''
-    description: |
-      地球システムモデリングの研究に従事。
-  - title: 修士課程学生
-    company: 東京大学
+    date_end: '2027-03-31'
+    description: ''
+  - title: 技術補佐員
+    company: 東京大学大学院理学系研究科
     company_url: ''
-    location: 東京
-    date_start: '2022-04-01'
-    date_end: '2024-03-31'
-    description: |
-      大気と陸上植生の物理的相互作用に関する研究を実施。
+    location: ''
+    date_start: '2025-04-01'
+    date_end: '2026-03-31'
+    description: ''
+  - title: 臨時研究補助員
+    company: 海洋研究開発機構
+    company_url: ''
+    location: ''
+    date_start: '2025-08-01'
+    date_end: '2026-03-31'
+    description: ''
+  - title: 研究生
+    company: 海洋研究開発機構
+    company_url: ''
+    location: ''
+    date_start: '2022-01-01'
+    date_end: ''
+    description: ''
+  - title: 理事
+    company: 認定特定非営利活動法人地下からのサイン測ろうかい
+    company_url: ''
+    location: ''
+    date_start: '2019-06-01'
+    date_end: '2025-05-31'
+    description: ''
+  - title: 理事
+    company: 東京大学消費生活協同組合
+    company_url: ''
+    location: ''
+    date_start: '2020-06-01'
+    date_end: '2021-05-31'
+    description: ''
 
 skills:
   - name: カメラ・写真
