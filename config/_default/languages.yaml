@@ -5,12 +5,9 @@
 # Default language
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
 
 ja:
   locale: ja
-  contentDir: content/ja
   title: Keiichi Hashimoto
   params:
     description: Keiichi Hashimoto's academic profile.
