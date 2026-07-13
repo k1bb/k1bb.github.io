@@ -45,8 +45,31 @@ education:
     start: 2018-04-01
     end: 2022-03-31
 
-experience: []
-skills: []
+experience:
+  - title: PhD Student
+    company: The University of Tokyo
+    company_url: ''
+    location: Tokyo, Japan
+    date_start: '2024-04-01'
+    date_end: ''
+    description: |
+      Researching Earth System Modeling.
+  - title: Master Student
+    company: The University of Tokyo
+    company_url: ''
+    location: Tokyo, Japan
+    date_start: '2022-04-01'
+    date_end: '2024-03-31'
+    description: |
+      Conducted research on Atmosphere-Vegetation Biophysical Interactions.
+
+skills:
+  - name: Photography
+    icon: camera
+    icon_pack: fas
+  - name: Hiking
+    icon: mountain
+    icon_pack: fas
 languages:
   - name: Japanese
     level: 5

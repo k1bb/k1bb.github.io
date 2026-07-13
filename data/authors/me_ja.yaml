@@ -45,8 +45,31 @@ education:
     start: 2018-04-01
     end: 2022-03-31
 
-experience: []
-skills: []
+experience:
+  - title: 博士課程学生
+    company: 東京大学
+    company_url: ''
+    location: 東京
+    date_start: '2024-04-01'
+    date_end: ''
+    description: |
+      地球システムモデリングの研究に従事。
+  - title: 修士課程学生
+    company: 東京大学
+    company_url: ''
+    location: 東京
+    date_start: '2022-04-01'
+    date_end: '2024-03-31'
+    description: |
+      大気と陸上植生の物理的相互作用に関する研究を実施。
+
+skills:
+  - name: カメラ・写真
+    icon: camera
+    icon_pack: fas
+  - name: 登山・ハイキング
+    icon: mountain
+    icon_pack: fas
 languages:
   - name: 日本語
     level: 5
