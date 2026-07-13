@@ -46,12 +46,12 @@ education:
     date_end: "2022-03-31"
 
 work:
-  - position: Project Student
-    company_name: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
+  - position: Temporary Research Assistant
+    company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
     company_url: ""
     location: ""
-    date_start: "2024-04-01"
-    date_end: "2027-03-31"
+    date_start: "2025-08-01"
+    date_end: "2026-03-31"
     summary: ""
   - position: Technical Assistant
     company_name: Graduate School of Science, The University of Tokyo
@@ -60,12 +60,12 @@ work:
     date_start: "2025-04-01"
     date_end: "2026-03-31"
     summary: ""
-  - position: Temporary Research Assistant
-    company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+  - position: Project Student
+    company_name: JST Support for Pioneering Research Initiated by the Next Generation (SPRING) Program, The University of Tokyo "Advanced Human Resource Development Leading Green Transformation (GX) (SPRING GX)"
     company_url: ""
     location: ""
-    date_start: "2025-08-01"
-    date_end: "2026-03-31"
+    date_start: "2024-04-01"
+    date_end: "2027-03-31"
     summary: ""
   - position: Research Student
     company_name: Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
@@ -75,18 +75,18 @@ work:
     date_end: ""
     summary: ""
   - position: Board Member
-    company_name: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
-    company_url: ""
-    location: ""
-    date_start: "2019-06-01"
-    date_end: "2025-05-31"
-    summary: ""
-  - position: Board Member
     company_name: University of Tokyo Co-op
     company_url: ""
     location: ""
     date_start: "2020-06-01"
     date_end: "2021-05-31"
+    summary: ""
+  - position: Board Member
+    company_name: Certified Non-Profit Organization "Let's Measure Signals from the Underground"
+    company_url: ""
+    location: ""
+    date_start: "2019-06-01"
+    date_end: "2025-05-31"
     summary: ""
 
 skills:
