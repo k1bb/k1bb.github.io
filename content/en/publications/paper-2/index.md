@@ -26,7 +26,7 @@ authors:
   - "C.-M. Wu"
 date: "2023-01-01T00:00:00Z"
 publication:
-  name: "J. Adv., Model Earth Syst., accepted."
+  name: "J. Adv., Model Earth Syst., accepted"
 publication_types:
   - "article-journal"
 ---

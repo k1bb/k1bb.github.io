@@ -1,6 +1,6 @@
 ---
 title: "Land components control the ENSO representation in the Earth System Model MIROC-ES2L"
-event: "EGU General Assembly 2025, Vienna, Austria, 27 April – 2 May 2025."
+event: "EGU General Assembly 2025, Vienna, Austria, 27 April – 2 May 2025"
 authors:
   - "me"
   - "T. Hajima"

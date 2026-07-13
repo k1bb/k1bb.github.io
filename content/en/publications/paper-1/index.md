@@ -8,7 +8,7 @@ authors:
   - "H. Miura"
 date: "2023-01-01T00:00:00Z"
 publication:
-  name: "J. Clim., in review."
+  name: "J. Clim., in review"
 publication_types:
   - "article-journal"
 ---

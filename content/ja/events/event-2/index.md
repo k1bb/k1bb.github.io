@@ -1,6 +1,6 @@
 ---
 title: "Land Components Control the ENSO Representation in the Earth System Model MIROC-ES2L"
-event: "3rd International Workshop on Interbasin Interaction and Climate Variability, The University of Tokyo, Tokyo, Japan, 3 – 4 December 2025."
+event: "3rd International Workshop on Interbasin Interaction and Climate Variability, The University of Tokyo, Tokyo, Japan, 3 – 4 December 2025"
 authors:
   - "me_ja"
   - "T. Hajima"

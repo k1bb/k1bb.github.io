@@ -1,6 +1,6 @@
 ---
 title: "Representation of biogeophysical processes in South America in the earth system model MIROC-ES2L"
-event: "JpGU 2023, Makuhari Messe, Chiba, 21 – 26 May 2023."
+event: "JpGU 2023, Makuhari Messe, Chiba, 21 – 26 May 2023"
 authors:
   - "me"
   - "T. Hajima"

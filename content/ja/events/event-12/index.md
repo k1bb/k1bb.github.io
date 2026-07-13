@@ -1,6 +1,6 @@
 ---
 title: "Representation of terrestrial vegetation in Earth system models and its relationship with atmospheric circulation"
-event: "JpGU 2024, Makuhari Messe, Chiba, 26 – 31 May 2024."
+event: "JpGU 2024, Makuhari Messe, Chiba, 26 – 31 May 2024"
 authors:
   - "me_ja"
   - "H. Miura"
