@@ -45,6 +45,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: Experience
       username: me
     design:
       date_format: 'January 2006'
