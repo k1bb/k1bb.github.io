@@ -4,6 +4,8 @@ date: 2025-01-01
 tags:
   - DTP
   - Design
+image:
+  preview_only: true
 ---
 
 ![磐南同窓会関東支部総会2025](磐南同窓会関東支部総会2025.png)

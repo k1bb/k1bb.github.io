@@ -4,6 +4,8 @@ date: 2022-01-01
 tags:
   - DTP
   - Design
+image:
+  preview_only: true
 ---
 
 ![薄明_チラシ表](薄明_チラシ表.png)

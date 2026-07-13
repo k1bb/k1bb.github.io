@@ -4,6 +4,8 @@ date: 2021-01-01
 tags:
   - DTP
   - Design
+image:
+  preview_only: true
 ---
 
 ![眠れ幼き魂_チラシ表](眠れ幼き魂_チラシ表.png)

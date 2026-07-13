@@ -4,6 +4,8 @@ date: 2019-06-01
 tags:
   - DTP
   - Design
+image:
+  preview_only: true
 ---
 
 ![2019京J_チラシ](2019京J_チラシ.png)

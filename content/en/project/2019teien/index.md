@@ -4,6 +4,8 @@ date: 2019-12-01
 tags:
   - DTP
   - Design
+image:
+  preview_only: true
 ---
 
 ![2019定演_チラシ](2019定演_チラシ.png)
