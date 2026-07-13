@@ -29,19 +29,6 @@ sections:
         size: medium
         shape: circle
 
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research focuses on the physical interactions between the atmosphere and terrestrial vegetation (climate-vegetation interactions) using Earth System Models.
-
-        In particular, I contribute to the development of the Japanese Earth System Model, MIROC-ES2L. My work aims to elucidate how dynamic simulations of Leaf Area Index (LAI) and the introduction of realistic vegetation structures, such as canopy height, impact large-scale climate phenomena like the El Niño-Southern Oscillation (ENSO) and general atmospheric circulation. Furthermore, I am engaged in developing advanced photosynthesis-hydraulics modules based on optimality theory and exploring cloud self-aggregation in radiative-convective equilibrium (RCE) systems across various temporal and spatial scales.
-
-        Please reach out to collaborate or ask any questions 😃
-    design:
-      columns: '1'
-
   - block: resume-experience
     id: experience
     content:
