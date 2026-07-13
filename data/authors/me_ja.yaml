@@ -97,6 +97,14 @@ skills:
     icon: paint-brush
   - name: 写真
     icon: camera
+  - name: Fortran
+    icon: code-bracket
+  - name: Python
+    icon: code-bracket-square
+  - name: HPC
+    icon: server-stack
+  - name: 画像解析
+    icon: chart-bar
 languages:
   - name: 日本語
     level: 5
