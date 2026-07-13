@@ -107,4 +107,7 @@ languages:
     level: 4
     label: 流暢
 
-awards: []
+awards:
+  - title: 日本気象学会2023年度秋季大会 松野賞
+    date: '2023-10-01'
+    awarder: 日本気象学会

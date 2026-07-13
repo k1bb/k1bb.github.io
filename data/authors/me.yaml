@@ -107,4 +107,7 @@ languages:
     level: 4
     label: Fluent
 
-awards: []
+awards:
+  - title: Matsuno Award
+    date: '2023-10-01'
+    awarder: Meteorological Society of Japan (MSJ) 2023 Autumn Meeting
