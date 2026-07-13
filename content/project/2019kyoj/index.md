@@ -14,7 +14,7 @@ image:
 <br><br>
 ## Pamphlet (Cover & Back)
 
-![2019京J_パンフ](2019京J_パンフ.png)
+![2019京J_パンフ](pamphlet.png)
 <br><br>
 ## Ticket
 

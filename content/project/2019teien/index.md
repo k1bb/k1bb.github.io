@@ -14,7 +14,7 @@ image:
 <br><br>
 ## Pamphlet (Cover & Back)
 
-![2019定演_パンフ](2019定演_パンフ.png)
+![2019定演_パンフ](pamphlet.png)
 <br><br>
 ## Ticket
 

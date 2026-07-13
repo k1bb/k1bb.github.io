@@ -15,7 +15,7 @@ baseURL: "https://k1bb.github.io/"
 defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## PAGE OPTIONS
