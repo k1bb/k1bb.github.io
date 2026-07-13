@@ -1,4 +1,5 @@
----\ntitle: "Organized convection in an ensemble of mock-Walker simulations, 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March - 3 April, 2026"
+---
+title: "Organized convection in an ensemble of mock-Walker simulations, 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March - 3 April, 2026"
 event: ""
 authors:
   - "O'Donnell"
@@ -12,7 +13,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. Hannah"
-  - "admin"
+  - "me"
   - "P. Hill"
   - "G. Leung"
   - "S. Matsugishi"
@@ -28,4 +29,4 @@ date: "2026-01-01T00:00:00Z"
 tags:
   - "Oral"
   - "共著 (Co-author)"
----\n
+---

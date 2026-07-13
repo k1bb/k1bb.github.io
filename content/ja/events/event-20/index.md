@@ -1,4 +1,5 @@
----\ntitle: "Convective organization and climate feedbacks in mock-Walker simulations in RCEMIP-II"
+---
+title: "Convective organization and climate feedbacks in mock-Walker simulations in RCEMIP-II"
 event: "106th AMS Annual Meeting, Houston, TX, USA, 25-29 January 2026."
 authors:
   - "Wing"
@@ -12,7 +13,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. Hannah"
-  - "admin"
+  - "me_ja"
   - "P. Hill"
   - "G. Leung"
   - "S. Matsugishi"
@@ -28,4 +29,4 @@ date: "2026-01-01T00:00:00Z"
 tags:
   - "Oral"
   - "共著 (Co-author)"
----\n
+---

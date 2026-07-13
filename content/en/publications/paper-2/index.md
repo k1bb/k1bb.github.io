@@ -1,4 +1,5 @@
----\ntitle: "Characteristics of a multimodel ensemble of mock-Walker simulations"
+---
+title: "Characteristics of a multimodel ensemble of mock-Walker simulations"
 authors:
   - "O'Donnell"
   - "G.L."
@@ -11,7 +12,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. M. Hannah"
-  - "admin"
+  - "me"
   - "P.G. Hill"
   - "G. Leung"
   - "S. Matsugishi"
@@ -28,4 +29,4 @@ publication:
   name: "J. Adv., Model Earth Syst., accepted."
 publication_types:
   - "article-journal"
----\n
+---

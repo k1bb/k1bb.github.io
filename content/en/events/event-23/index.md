@@ -1,4 +1,5 @@
----\ntitle: "Convective organization in mock-Walker simulations in RCEMIP-II, 2025 CFMIP/CloudSense Meeting, Exeter, UK, 7-10 July 2025"
+---
+title: "Convective organization in mock-Walker simulations in RCEMIP-II, 2025 CFMIP/CloudSense Meeting, Exeter, UK, 7-10 July 2025"
 event: ""
 authors:
   - "Wing"
@@ -12,7 +13,7 @@ authors:
   - "R. Fievet"
   - "B. Gasparini"
   - "W. Hannah"
-  - "admin"
+  - "me"
   - "P. Hill"
   - "S. Matsugishi"
   - "S. Ortega"
@@ -27,4 +28,4 @@ date: "2025-01-01T00:00:00Z"
 tags:
   - "Oral"
   - "共著 (Co-author)"
----\n
+---

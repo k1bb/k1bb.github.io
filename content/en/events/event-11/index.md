@@ -1,9 +1,10 @@
----\ntitle: "地上設置型Rainscopeを用いた船上における降雨観測"
+---
+title: "地上設置型Rainscopeを用いた船上における降雨観測"
 event: "第10回マッデン・ジュリアン振動研究会, 名古屋大学, 名古屋, 2024年10月29 – 30日."
 authors:
-  - "admin"
+  - "me"
 date: "2024-01-01T00:00:00Z"
 tags:
   - "Oral"
   - "主著 (First Author)"
----\n
+---
