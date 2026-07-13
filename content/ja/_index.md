@@ -84,10 +84,4 @@ sections:
     design:
       view: article-grid
       columns: 3
-
-  - block: resume-skills
-    id: hobbies
-    content:
-      title: 趣味・特技
-      username: me_ja
 ---

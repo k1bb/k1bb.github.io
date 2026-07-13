@@ -85,10 +85,4 @@ sections:
     design:
       view: article-grid
       columns: 3
-
-  - block: resume-skills
-    id: hobbies
-    content:
-      title: Hobbies & Skills
-      username: me
 ---

@@ -162,6 +162,22 @@
     </div>
     {{ end }}
 
+    {{ with $person.skills }}
+    <div class="col-span-1 md:col-span-2">
+      <div class="section-subheading mb-3">{{ i18n "skills" | default "Skills" | markdownify }}</div>
+      <div class="flex flex-wrap gap-3">
+        {{ range . }}
+        <span class="inline-flex items-center px-3 py-1.5 rounded-full text-sm font-medium bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-200">
+          {{ if .icon }}
+            <span class="mr-2">{{ partial "functions/get_icon" (dict "name" .icon "pack" (or .icon_pack "fas") "attributes" "style=\"height: 1rem;\"") }}</span>
+          {{ end }}
+          {{ .name | markdownify | emojify }}
+        </span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
   </div>
 
 </div>
