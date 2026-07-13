@@ -71,7 +71,7 @@ sections:
           - Design
     design:
       view: article-grid
-      columns: '1'
+      columns: 3
 
   - block: collection
     id: photography
@@ -84,7 +84,7 @@ sections:
           - Photography
     design:
       view: article-grid
-      columns: '1'
+      columns: 3
 
   - block: resume-skills
     id: hobbies

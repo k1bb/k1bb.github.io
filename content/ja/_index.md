@@ -70,7 +70,7 @@ sections:
           - DTP
     design:
       view: article-grid
-      columns: '1'
+      columns: 3
 
   - block: collection
     id: photography
@@ -83,7 +83,7 @@ sections:
           - 写真
     design:
       view: article-grid
-      columns: '1'
+      columns: 3
 
   - block: resume-skills
     id: hobbies
