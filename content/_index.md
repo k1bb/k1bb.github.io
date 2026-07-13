@@ -64,6 +64,7 @@ sections:
     id: graphic-design
     content:
       title: Graphic Design
+      count: 6
       filters:
         folders:
           - project

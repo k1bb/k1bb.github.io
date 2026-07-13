@@ -63,6 +63,7 @@ sections:
     id: graphic-design
     content:
       title: グラフィックデザイン
+      count: 6
       filters:
         folders:
           - project
