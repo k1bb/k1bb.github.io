@@ -69,7 +69,8 @@ sections:
         tags:
           - DTP
     design:
-      view: card
+      view: article-grid
+      columns: '1'
 
   - block: collection
     id: photography
@@ -81,7 +82,8 @@ sections:
         tags:
           - 写真
     design:
-      view: card
+      view: article-grid
+      columns: '1'
 
   - block: resume-skills
     id: hobbies

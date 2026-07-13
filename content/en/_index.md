@@ -70,7 +70,8 @@ sections:
         tags:
           - Design
     design:
-      view: card
+      view: article-grid
+      columns: '1'
 
   - block: collection
     id: photography
@@ -82,7 +83,8 @@ sections:
         tags:
           - Photography
     design:
-      view: card
+      view: article-grid
+      columns: '1'
 
   - block: resume-skills
     id: hobbies
