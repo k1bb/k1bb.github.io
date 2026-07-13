@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: 履歴書 (CV) ダウンロード
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf
       headings:
         about: '研究概要'
         interests: ''
