@@ -13,7 +13,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 履歴書 (CV) ダウンロード
+        text: 履歴書ダウンロード
         url: /uploads/resume.pdf
       headings:
         about: '研究概要'
