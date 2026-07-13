@@ -60,12 +60,26 @@ sections:
       view: citation
 
   - block: collection
-    id: portfolio
+    id: graphic-design
     content:
-      title: ポートフォリオ (Works)
+      title: デザイン制作 (Graphic Design)
       filters:
         folders:
           - project
+        tags:
+          - DTP
+    design:
+      view: card
+
+  - block: collection
+    id: photography
+    content:
+      title: 写真 (Photography)
+      filters:
+        folders:
+          - project
+        tags:
+          - 写真
     design:
       view: card
 

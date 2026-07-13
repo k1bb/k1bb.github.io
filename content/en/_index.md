@@ -61,12 +61,26 @@ sections:
       view: citation
 
   - block: collection
-    id: portfolio
+    id: graphic-design
     content:
-      title: Portfolio (Works)
+      title: Graphic Design
       filters:
         folders:
           - project
+        tags:
+          - Design
+    design:
+      view: card
+
+  - block: collection
+    id: photography
+    content:
+      title: Photography
+      filters:
+        folders:
+          - project
+        tags:
+          - Photography
     design:
       view: card
 
