@@ -16,6 +16,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 40
-  - name: Hobbies
-    url: /#hobbies
+  - name: Graphic Design
+    url: /#graphic-design
     weight: 50
+  - name: Photography
+    url: /#photography
+    weight: 60
