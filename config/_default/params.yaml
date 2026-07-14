@@ -15,7 +15,7 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Keiichi Hashimoto"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: "The University of Tokyo"
+    organization: "Keiichi Hashimoto"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
