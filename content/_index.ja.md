@@ -41,6 +41,7 @@ sections:
     id: research-experience
     content:
       title: 研究経験
+      count: 6
       filters:
         folders:
           - project
@@ -48,7 +49,7 @@ sections:
           - Research
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   - block: collection
     id: papers
