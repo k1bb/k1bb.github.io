@@ -91,6 +91,6 @@ sections:
     id: photography
     content:
       title: 写真
-      text: >
-        [note.com](https://note.com/) など外部サービスで公開する予定です。（Coming soon...）
+      text: |
+        写真作品（ポートフォリオ）は、**[noteのギャラリー記事](https://note.com/k1bb/n/nac2be2994527)** にて公開しています！ぜひご覧ください。
 ---
