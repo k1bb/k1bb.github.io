@@ -16,6 +16,9 @@ ja:
       - name: 経歴
         url: '#experience'
         weight: 20
+      - name: 研究経験
+        url: '#research-experience'
+        weight: 25
       - name: 論文
         url: '#papers'
         weight: 30
