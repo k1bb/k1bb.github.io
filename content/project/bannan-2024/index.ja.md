@@ -6,6 +6,7 @@ tags:
   - Design
 image:
   preview_only: true
+  focal_point: "Top"
 ---
 
 ## バナー
