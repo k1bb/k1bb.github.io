@@ -1,6 +1,7 @@
 ---
 title: "Organized convection in an ensemble of mock-Walker simulations, 37th Conference on Hurricanes and Tropical Meteorology, San Diego, CA, USA, 30 March - 3 April, 2026"
 event: ""
+publication: ""
 authors:
   - "O'Donnell"
   - "G.L."

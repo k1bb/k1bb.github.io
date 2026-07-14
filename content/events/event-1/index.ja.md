@@ -1,6 +1,7 @@
 ---
 title: "Development of a Unified Photosynthesis-Hydraulics Module for MIROC-ES2L"
 event: "JpGU-AGU Joint Meeting 2026, Makuhari Messe, Chiba, 24 – 29 May 2026"
+publication: "JpGU-AGU Joint Meeting 2026, Makuhari Messe, Chiba, 24 – 29 May 2026"
 authors:
   - "me"
   - "T. Hajima"

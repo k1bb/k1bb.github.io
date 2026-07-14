@@ -1,6 +1,7 @@
 ---
 title: "Convective organization in mock-Walker simulations in RCEMIP-II, 2025 CFMIP/CloudSense Meeting, Exeter, UK, 7-10 July 2025"
 event: ""
+publication: ""
 authors:
   - "Wing"
   - "A.A."

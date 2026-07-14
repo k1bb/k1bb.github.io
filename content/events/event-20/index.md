@@ -1,6 +1,7 @@
 ---
 title: "Convective organization and climate feedbacks in mock-Walker simulations in RCEMIP-II"
 event: "106th AMS Annual Meeting, Houston, TX, USA, 25-29 January 2026"
+publication: "106th AMS Annual Meeting, Houston, TX, USA, 25-29 January 2026"
 authors:
   - "Wing"
   - "A.A."

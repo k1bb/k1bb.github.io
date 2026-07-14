@@ -1,6 +1,7 @@
 ---
 title: "Convective organization in mock-Walker simulations in RCEMIP-II, Gordon Research Seminar on Radiation and Climate, Lewiston, ME, USA, 19-20 July 2025"
 event: ""
+publication: ""
 authors:
   - "O'Donnell"
   - "G.L."
