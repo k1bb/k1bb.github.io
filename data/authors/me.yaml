@@ -13,9 +13,11 @@ status:
   icon: "🌍"
 role: PhD Student
 bio: |
-  My research focuses on the physical interactions between the atmosphere and terrestrial vegetation (climate-vegetation interactions) using Earth System Models.
+  My research focuses on the physical interactions between the atmosphere and terrestrial vegetation using Earth System Models.
 
-  In particular, I contribute to the development of the Japanese Earth System Model, MIROC-ES2L. My work aims to elucidate how dynamic simulations of Leaf Area Index (LAI) and the introduction of realistic vegetation structures, such as canopy height, impact large-scale climate phenomena like the El Niño-Southern Oscillation (ENSO) and general atmospheric circulation. Furthermore, I am engaged in developing advanced photosynthesis-hydraulics modules based on optimality theory and exploring cloud self-aggregation in radiative-convective equilibrium (RCE) systems across various temporal and spatial scales.
+  In the past, I studied the impact of terrestrial vegetation on the representation of the El Niño-Southern Oscillation (ENSO) using the Earth System Model MIROC. Currently, my work focuses on refining the model representation of the atmosphere-land water cycle in the Amazon rainforest and identifying its hydrological tipping point. Specifically, I am advancing the implementation of "ATAMI," a state-of-the-art integrated photosynthesis-hydraulics module based on optimality theory, into the model.
+
+  Furthermore, I am interested in peripheral technologies and software development related to weather and climate modeling. This includes generating boundary condition data for next-generation climate models using satellite observations (GEDI/ICESat-2), participating in the Radiative-Convective Equilibrium Model Intercomparison Project (RCEMIP-II), and developing the meteorological data analysis tool "xgtool3".
 
   Contact: khashimoto@eps.s.u-tokyo.ac.jp
 
