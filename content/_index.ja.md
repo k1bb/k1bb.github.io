@@ -87,10 +87,16 @@ sections:
       view: article-grid
       columns: 3
 
-  - block: markdown
+  - block: collection
     id: photography
     content:
       title: 写真
-      text: |
-        写真作品（ポートフォリオ）は、**[noteのギャラリー記事](https://note.com/k1bb/n/nac2be2994527)** にて公開しています！ぜひご覧ください。
+      filters:
+        folders:
+          - project
+        tags:
+          - Photography
+    design:
+      view: article-grid
+      columns: 3
 ---
