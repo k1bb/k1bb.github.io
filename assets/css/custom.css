@@ -1,0 +1,4 @@
+/* Fix grid width when there are few items */
+#photography .grid {
+  width: 100%;
+}
