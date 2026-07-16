@@ -1,6 +1,6 @@
 ---
-title: "ゾーンプレートさんぽ（池袋〜神楽坂）"
-summary: "ゾーンプレートで撮影した池袋〜神楽坂の散歩写真です。noteにて公開しています。"
+title: "Zone Plate Stroll (Ikebukuro - Kagurazaka)"
+summary: "A collection of photos taken around Ikebukuro and Kagurazaka using a zone plate. Published on note.com."
 date: 2024-01-01
 tags:
   - Photography
