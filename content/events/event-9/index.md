@@ -1,13 +1,15 @@
 ---
-title: "Physical Effects of Terrestrial Vegetation Representation on Atmospheric Circulation in Earth System Models"
-event: "UTCCS Annual Workshop 2025, The University of Tokyo, Tokyo, 6 March 2025"
-publication: "UTCCS Annual Workshop 2025, The University of Tokyo, Tokyo, 6 March 2025"
+title: Physical Effects of Terrestrial Vegetation Representation on Atmospheric Circulation in Earth System Models
+publication: UTCCS Annual Workshop 2025, The University of Tokyo, Tokyo, 6 March 2025
 authors:
-  - "me"
-  - "T. Hajima"
-  - "H. Miura"
-date: "2025-01-01T00:00:00Z"
+  - me
+  - T. Hajima
+  - H. Miura
+date: 2025-01-01T00:00:00Z
 tags:
-  - "Poster"
-  - "主著 (First Author)"
+  - Poster
+  - 主著 (First Author)
+event_start: 2025-01-01T00:00:00Z
+event_name: UTCCS Annual Workshop 2025, The University of Tokyo, Tokyo, 6 March 2025
 ---
+

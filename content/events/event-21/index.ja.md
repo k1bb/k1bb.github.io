@@ -1,32 +1,34 @@
 ---
-title: "Convective organization in mock-Walker simulations in RCEMIP-II, Gordon Research Conference on Radiation and Climate, Lewiston, ME, USA, 20-25 July 2025"
-event: ""
+title: Convective organization in mock-Walker simulations in RCEMIP-II, Gordon Research Conference on Radiation and Climate, Lewiston, ME, USA, 20-25 July 2025
 publication: ""
 authors:
-  - "O'Donnell"
-  - "G.L."
-  - "A.A. Wing"
-  - "L. Silvers"
-  - "K. Reed"
-  - "P. Bogenschutz"
-  - "J.-P. Chaboureau"
-  - "G. Dagan"
-  - "R. Fievet"
-  - "B. Gasparini"
-  - "W. Hannah"
-  - "me"
-  - "P. Hill"
-  - "S. Matsugishi"
-  - "S. Ortega"
-  - "R. Roehrig"
-  - "D. Romps"
-  - "J. Shpund"
-  - "A. Sokol"
-  - "L. Tomassini"
-  - "T. Yanase"
-  - "C.-M. Wu"
-date: "2025-01-01T00:00:00Z"
+  - O'Donnell
+  - G.L.
+  - A.A. Wing
+  - L. Silvers
+  - K. Reed
+  - P. Bogenschutz
+  - J.-P. Chaboureau
+  - G. Dagan
+  - R. Fievet
+  - B. Gasparini
+  - W. Hannah
+  - me
+  - P. Hill
+  - S. Matsugishi
+  - S. Ortega
+  - R. Roehrig
+  - D. Romps
+  - J. Shpund
+  - A. Sokol
+  - L. Tomassini
+  - T. Yanase
+  - C.-M. Wu
+date: 2025-01-01T00:00:00Z
 tags:
-  - "Poster"
-  - "共著 (Co-author)"
+  - Poster
+  - 共著 (Co-author)
+event_start: 2025-01-01T00:00:00Z
+event_name: ""
 ---
+
