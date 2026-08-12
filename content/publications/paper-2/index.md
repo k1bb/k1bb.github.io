@@ -26,7 +26,7 @@ authors:
   - "C.-M. Wu"
 date: "2026-08-01T00:00:00Z"
 publication:
-  name: "Journal of Advances in Modeling Earth Systems, 18(8), e2026MS005781"
+  name: "J. Adv. Model. Earth Syst., 18(8), e2026MS005781"
 doi: "10.1029/2026MS005781"
 publication_types:
   - "article-journal"
