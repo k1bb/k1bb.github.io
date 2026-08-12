@@ -1,5 +1,5 @@
 ---
-title: "Characteristics of a multimodel ensemble of mock-Walker simulations"
+title: "Characteristics of a Multi-Model Ensemble of Mock-Walker Simulations"
 authors:
   - "O'Donnell"
   - "G.L."
@@ -24,9 +24,18 @@ authors:
   - "L. Tomassini"
   - "S. van den Heever"
   - "C.-M. Wu"
-date: "2023-01-01T00:00:00Z"
+date: "2026-08-01T00:00:00Z"
 publication:
-  name: "J. Adv., Model Earth Syst., accepted"
+  name: "Journal of Advances in Modeling Earth Systems, 18(8), e2026MS005781"
+doi: "10.1029/2026MS005781"
 publication_types:
   - "article-journal"
+abstract: "The Radiative-Convective Equilibrium Model Intercomparison Project (RCEMIP) phase I provided insights into the tropical radiative-convective equilibrium state across an unprecedented ensemble of models that includes both those with parameterized and explicit convection. RCEMIP phase II (RCEMIP-II) introduces mock-Walker simulations to examine how sea surface temperature (SST) gradients and the forced circulation they theoretically induce interact with the structure of convection and mean climate state. This overview paper presents descriptions of and initial results from 17 numerical models regarding clouds, convective organization, and circulation structure. Results regarding warming the mean SST in the presence of an SST gradient generally mirror those from RCEMIP-I but a larger range of dynamical circulations, along with additional phenomena, are possible in RCEMIP-II. Increases in the SST gradient while the mean SST is held constant lead to more convective organization across many models, as measured by a number of organization metrics. Increases in the SST gradient also tend to decrease the frequency of high, thin clouds while increasing the frequency of low clouds, including the possibility of stratocumulus, which were not seen in RCEMIP-I. RCEMIP-II also provides an estimate of the influence of a pattern effect, suggesting increased negative climate feedbacks if increases in the SST gradient occur alongside mean warming. However, the SST gradient's inability to fully constrain the circulation structure allows simulations to show varying importance of self-aggregation and forced clustering over the warm pool, resulting in extreme variety in the circulation structures and important climate variables in the organized state across the model ensemble."
+tags:
+  - "convective organization"
+  - "cloud feedbacks"
+  - "climate"
+  - "idealized modeling"
+  - "mock-Walker"
+  - "circulation"
 ---
