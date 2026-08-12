@@ -15,7 +15,7 @@ image:
 <br><br>
 ![薄明_チラシ裏](薄明_チラシ裏.png)
 <br><br>
-## Pamphlet (Cover & Back)
+## Pamphlet
 
 ![薄明_パンフ](pamphlet.png)
 <br><br>

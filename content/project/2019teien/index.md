@@ -13,7 +13,7 @@ image:
 
 ![2019定演_チラシ](2019定演_チラシ.png)
 <br><br>
-## Pamphlet (Cover & Back)
+## Pamphlet
 
 ![2019定演_パンフ](pamphlet.png)
 <br><br>

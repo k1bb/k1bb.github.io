@@ -13,7 +13,7 @@ image:
 
 ![2019京J_チラシ](2019京J_チラシ.png)
 <br><br>
-## Pamphlet (Cover & Back)
+## Pamphlet
 
 ![2019京J_パンフ](pamphlet.png)
 <br><br>
