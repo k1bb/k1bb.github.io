@@ -1,13 +1,15 @@
 ---
-title: "Resolution and domain size dependence of cloud self-aggregation simulations in radiative-convective equilibrium systems, JpGU 2022, Makuhari Messe, Chiba, 22 May – 3 June 2022"
-event: ""
+title: Resolution and domain size dependence of cloud self-aggregation simulations in radiative-convective equilibrium systems, JpGU 2022, Makuhari Messe, Chiba, 22 May – 3 June 2022
 publication: ""
 authors:
-  - "me"
-  - "C-S. Hung"
-  - "H. Miura"
-date: "2022-01-01T00:00:00Z"
+  - me
+  - C-S. Hung
+  - H. Miura
+date: 2022-01-01T00:00:00Z
 tags:
-  - "Poster"
-  - "主著 (First Author)"
+  - Poster
+  - 主著 (First Author)
+event_start: 2022-01-01T00:00:00Z
+event_name: ""
 ---
+
