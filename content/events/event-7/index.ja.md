@@ -1,13 +1,15 @@
 ---
-title: "Sensitivity of the Coupled Atmosphere-Ocean System to Vegetation Height Distribution in the MIROC Climate Model"
-event: "JpGU 2025, Makuhari Messe, Chiba, 25 – 30 May 2025"
-publication: "JpGU 2025, Makuhari Messe, Chiba, 25 – 30 May 2025"
+title: Sensitivity of the Coupled Atmosphere-Ocean System to Vegetation Height Distribution in the MIROC Climate Model
+publication: JpGU 2025, Makuhari Messe, Chiba, 25 – 30 May 2025
 authors:
-  - "me"
-  - "T. Hajima"
-  - "H. Miura"
-date: "2025-01-01T00:00:00Z"
+  - me
+  - T. Hajima
+  - H. Miura
+date: 2025-01-01T00:00:00Z
 tags:
-  - "Poster"
-  - "主著 (First Author)"
+  - Poster
+  - 主著 (First Author)
+event_start: 2025-01-01T00:00:00Z
+event_name: JpGU 2025, Makuhari Messe, Chiba, 25 – 30 May 2025
 ---
+
