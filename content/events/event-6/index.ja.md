@@ -1,13 +1,15 @@
 ---
-title: "Impacts of Vegetation Canopy Height Distribution on Climate Simulations"
-event: "The 3rd UTokyo-NTU Workshop on Atmospheric Convection, The University of Tokyo, Tokyo, 29 May 2025"
-publication: "The 3rd UTokyo-NTU Workshop on Atmospheric Convection, The University of Tokyo, Tokyo, 29 May 2025"
+title: Impacts of Vegetation Canopy Height Distribution on Climate Simulations
+publication: The 3rd UTokyo-NTU Workshop on Atmospheric Convection, The University of Tokyo, Tokyo, 29 May 2025
 authors:
-  - "me"
-  - "T. Hajima"
-  - "H. Miura"
-date: "2025-01-01T00:00:00Z"
+  - me
+  - T. Hajima
+  - H. Miura
+date: 2025-01-01T00:00:00Z
 tags:
-  - "Oral"
-  - "主著 (First Author)"
+  - Oral
+  - 主著 (First Author)
+event_start: 2025-01-01T00:00:00Z
+event_name: The 3rd UTokyo-NTU Workshop on Atmospheric Convection, The University of Tokyo, Tokyo, 29 May 2025
 ---
+
